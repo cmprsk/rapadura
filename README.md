@@ -17,4 +17,4 @@ Em geral, para Mac OS X, /Users/[nome do usuário]/Application Support/openoffic
 
 ```
 
-Testado para AOO 4.1.X e LO 4.X
+Testado para AOO 4.1.X e LO 4.4.X
