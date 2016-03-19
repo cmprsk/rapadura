@@ -22,3 +22,7 @@ Testado para AOO 4.1.X e LO 4.4.X
 ## Banco de dados - Google Forms
 
 No arquivo [bancodedados.md](bancodedados.md), coloquei links para um formulário de exemplo, criado com a tecnologia Goodle Forms, idêntico ao utilizado por nosso grupo de pesquisa para colher dados sobre pacientes em tratamento (ou já tratados) com diagnóstico de tumor cerebral primário na infância ou adolescência. O formulário de trabalho não será disponibilizado, a fim de resguardar a confidencialidade das informações colhidas. Este formulário está sendo usado por nosso grupo dentro de um estudo aprovado pela CEP do nosso hospital, com o objetivo de montar um registro hospitalar de pacientes com tumores cerebrais primários na faixa etária de 0-18 anos.
+
+```
+#naovaitergolpe
+```
