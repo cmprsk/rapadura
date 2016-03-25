@@ -40,6 +40,8 @@ This work is published from:
   Brasil</span>.
 </p>
 
+**The MIT license (MIT)**
+Copyrights 2016 Francisco H C Felis
 
 ```
 #naovaitergolpe
