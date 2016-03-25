@@ -23,6 +23,18 @@ Testado para AOO 4.1.X e LO 4.4.X
 
 No arquivo [bancodedados.md](bancodedados.md), coloquei links para um formulário de exemplo, criado com a tecnologia Goodle Forms, idêntico ao utilizado por nosso grupo de pesquisa para colher dados sobre pacientes em tratamento (ou já tratados) com diagnóstico de tumor cerebral primário na infância ou adolescência. O formulário de trabalho não será disponibilizado, a fim de resguardar a confidencialidade das informações colhidas. Este formulário está sendo usado por nosso grupo dentro de um estudo aprovado pela CEP do nosso hospital, com o objetivo de montar um registro hospitalar de pacientes com tumores cerebrais primários na faixa etária de 0-18 anos.
 
+### Responsável: 
+> Francisco Helder Cavalcante Felix,
+> Médico cancerologista pediátrico
+> atuando desde 2008 (ingresso por concurso público) no [Hospital Infantil Albert Sabin](http://www.hias.ce.gov.br), Fortaleza - CE, Brasil
+
+> Membro da Sociedade Brasileira de Pediatria - [SBP](http://www.sbp.com.br) desde 2002,
+> Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE](http://www.sobope.org.br) desde 2013,
+> Membro da Society for Neuroncology - [SNO](http://soc-neuro-onc.org) desde 2015
+
+> Título de especialista em pediatria em 2012,
+> Título de especialista em cancerologia pediátrica em 2014
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
