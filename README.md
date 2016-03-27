@@ -35,6 +35,8 @@ No arquivo [bancodedados.md](bancodedados.md), coloquei links para um formulári
 > Título de especialista em pediatria em 2012,
 > Título de especialista em cancerologia pediátrica em 2014
 
+> Contato: heldercfelix@gmail.com - twitter: @cmprsk
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
@@ -53,7 +55,7 @@ This work is published from:
 </p>
 
 **The MIT license (MIT)**
-Copyrights 2016 Francisco H C Felis
+Copyrights 2016 Francisco H C Felix
 
 ```
 #naovaitergolpe
