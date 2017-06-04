@@ -1,0 +1,3 @@
+[submodule "ff-macro"]
+	path = ff-macro
+	url = https://github.com/fhcflx/ff-macro.git
