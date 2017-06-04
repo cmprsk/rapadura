@@ -30,12 +30,12 @@ No arquivo [bancodedados.md](bancodedados.md), coloquei links para um formulári
 
 > Membro da Sociedade Brasileira de Pediatria - [SBP](http://www.sbp.com.br) desde 2002,
 > Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE](http://www.sobope.org.br) desde 2013,
-> Membro da Society for Neuroncology - [SNO](http://soc-neuro-onc.org) desde 2015
+> Membro da Society for Neuroncology - [SNO](http://soc-neuro-onc.org) de 2015 a 2017
 
 > Título de especialista em pediatria em 2012,
 > Título de especialista em cancerologia pediátrica em 2014
 
-> Contato: heldercfelix@gmail.com - twitter: @cmprsk
+> Contato: heldercfelix@gmail.com - twitter: @fhcflx
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
