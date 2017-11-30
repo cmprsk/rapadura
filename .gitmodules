@@ -7,3 +7,6 @@
 [submodule "teste"]
 	path = teste
 	url = https://github.com/fhcflx/teste.git
+[submodule "aos-xml-filters"]
+	path = aos-xml-filters
+	url = https://fhcflx@github.com/fhcflx/aos-xml-filters.git
