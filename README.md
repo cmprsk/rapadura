@@ -29,6 +29,13 @@ No arquivo [bancodedados.md](bancodedados.md), coloquei links para um formulári
 > Médico cancerologista pediátrico
 > Contato: fhcflx@outlook.com.com - twitter: @fhcflx
 
+## Licence for code:
+
+**The MIT license (MIT)**
+2016-2018 Francisco H C Felix
+
+## License for data, text, media, etc, BUT NOT FOR CODE:
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
@@ -45,6 +52,3 @@ This work is published from:
       content="BR" about="[_:publisher]">
   Brasil</span>.
 </p>
-
-**The MIT license (MIT)**
-2016-2018 Francisco H C Felix
