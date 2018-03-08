@@ -1,41 +1,40 @@
 # rapadura
+
+## Macro para libreoffice.org (basic)
+
 My repository in GitHub to deposit data and code for my projects.
 
-## Macro para openoffice.org (basic)
+ff.ott -> modelo para OOo, AOO, LO, com campos de dados marcados (*bookmarks*) para usar com a macro ff. Modelo de folha de rosto e documentos para identificação de pacientes com tumores do sistema nervoso central, usado por mim no meu hospital. Este modelo não tem os logos institucionais.
 
-ff.ott -> modelo para OOo, AOO, LO, com campos de dados marcados (*bookmarks*) para usar com a macro ff. Modelo de folha de rosto e documentos para identificação de pacientes com tumor cerebral, usado por mim no meu hospital. Este modelo não tem os logos institucionais que uso.
+ff -> pasta contendo o conteúdo do arquivo `ff.ott`, descomprimido. Na pasta `ff/Basic/Standard` está o arquivo da macro ff para OOo, AOO, LO, que usa um formulário preenchível para completar os campos do modelo `ff.ott`.
 
-ff -> pasta contendo os arquivos da macro ff para OOo, AOO, LO, que usa um formulário preenchível para completar os campos do modelo ff.ott
+Não é necessário instalação, basta abrir o arquivo e executar a macro. Caso se deseje, basta copiar o script na pasta de macros.
 
-Para instalar a macro, basta copiar esta pasta da maneira como está para o caminho de armazenamento de macros de usuários do programa.
-
-> Ferramentas -> Opções -> Caminhos
+> LibreOffice -> Preferences -> Paths
 
 ```
 
-Em geral, para Mac OS X, /Users/[nome do usuário]/Application Support/openoffice/4/user/basic
+Em geral, para Mac OS X, /Users/[nome do usuário]/Application Support/LibreOffice/4/user/basic
 
 ```
 
-Testado para AOO 4.1.X e LO 4.4.X
+Testado para LO 5.X
 
 ## Banco de dados - Google Forms
 
 No arquivo [bancodedados.md](bancodedados.md), coloquei links para um formulário de exemplo, criado com a tecnologia Goodle Forms, idêntico ao utilizado por nosso grupo de pesquisa para colher dados sobre pacientes em tratamento (ou já tratados) com diagnóstico de tumor cerebral primário na infância ou adolescência. O formulário de trabalho não será disponibilizado, a fim de resguardar a confidencialidade das informações colhidas. Este formulário está sendo usado por nosso grupo dentro de um estudo aprovado pela CEP do nosso hospital, com o objetivo de montar um registro hospitalar de pacientes com tumores cerebrais primários na faixa etária de 0-18 anos.
 
-### Responsável: 
-> Francisco Helder Cavalcante Felix,
+### Responsável:
+> Francisco H C Felix,
 > Médico cancerologista pediátrico
-> atuando desde 2008 (ingresso por concurso público) no [Hospital Infantil Albert Sabin](http://www.hias.ce.gov.br), Fortaleza - CE, Brasil
-
-> Membro da Sociedade Brasileira de Pediatria - [SBP](http://www.sbp.com.br) desde 2002,
-> Membro da Sociedade Brasileira de Oncología Pediátrica - [SOBOPE](http://www.sobope.org.br) desde 2013,
-> Membro da Society for Neuroncology - [SNO](http://soc-neuro-onc.org) de 2015 a 2017
-
-> Título de especialista em pediatria em 2012,
-> Título de especialista em cancerologia pediátrica em 2014
-
 > Contato: fhcflx@outlook.com.com - twitter: @fhcflx
+
+## Licence for code:
+
+**The MIT license (MIT)**
+2016-2018 Francisco H C Felix
+
+## License for data, text, media, etc, BUT NOT FOR CODE:
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
@@ -53,10 +52,3 @@ This work is published from:
       content="BR" about="[_:publisher]">
   Brasil</span>.
 </p>
-
-**The MIT license (MIT)**
-Copyrights 2016 Francisco H C Felix
-
-```
-#naovaitergolpe
-```
